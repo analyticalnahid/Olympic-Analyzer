@@ -1,6 +1,8 @@
 # Olympic-Analyzer
 An simple olympic analyzer from an external data source.
 
+<img src="Olympic Analyzer -Thumbnail.png">
+
 ## How it works?
 Checkout my youtube video-> 
 
