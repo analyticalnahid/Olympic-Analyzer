@@ -4,7 +4,7 @@ An simple olympic analyzer from an external data source.
 <img src="Olympic Analyzer -Thumbnail.png">
 
 ## How it works?
-Checkout my youtube video-> 
+Checkout my youtube video-> https://youtu.be/J0UxjqieUvc
 
 ## Try Demo!
 No need to install try it out -> https://olympicanalyzers.herokuapp.com/
